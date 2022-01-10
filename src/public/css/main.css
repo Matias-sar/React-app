@@ -1,0 +1,50 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+*{
+    margin: 0;    
+    font-family: 'Roboto', sans-serif;
+    max-width: 100%;
+    overflow-x: hidden;
+}
+
+.link{
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+}
+.link:hover{
+    text-decoration: underline;
+}
+
+.facebook{
+    color: white;
+}
+
+.facebook:hover{
+    background: #3b5998;
+}
+
+.instagram{
+    color: white;
+}
+
+/*Hacer un gradient instagram*/
+.instagram:hover{
+    color: #ffffff;
+background: -moz-linear-gradient(45deg, #FFFF00 0%, #FF0000 50%, #AC0BC5 100%);
+background: -webkit-linear-gradient(45deg, #FFFF00 0%, #FF0000 50%, #AC0BC5 100%);
+background: linear-gradient(45deg, #FFFF00 0%, #FF0000 50%, #AC0BC5 100%);
+}
+
+.twitter{
+    color: white;
+}
+.twitter:hover{
+    background: #00acee;
+}
+
+.youtube{
+    color: white;
+}
+.youtube:hover{
+    background: #bb0000;
+}
