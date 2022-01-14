@@ -6,7 +6,7 @@ object-assign
 
 /**
  * @Autor Matias sarmiento gallardo
- * @version 2.5
+ * @version 2.6
  * @since 2021
  * @category React
  * @licence MIT
